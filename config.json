@@ -1,0 +1,27 @@
+{
+  "_ayuda": "Edita este archivo y súbelo a GitHub: el launcher lo lee al abrir y cada 10 minutos. Las imágenes pueden ser nombres de archivo de esta misma carpeta o enlaces https completos.",
+
+  "newsTitle": "Noticias",
+  "news": [
+    {
+      "id": "bienvenida",
+      "title": "¡Bienvenido a Eternal Launcher!",
+      "summary": "Estas noticias se editan desde el archivo config.json, sin recompilar el launcher.",
+      "date": "2026-11-22"
+    }
+  ],
+
+  "background": {
+    "image": "background.webp",
+    "opacity": 0.22,
+    "scope": "home",
+    "blur": 0
+  },
+
+  "splash": {
+    "image": "background.webp",
+    "opacity": 0.3
+  },
+
+  "logo": ""
+}
